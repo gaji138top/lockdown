@@ -65,3 +65,5 @@ youtu.be
 youtube-nocookie.com
 youtube.com
 ytimg.com
+xbox.com
+gamepass.com

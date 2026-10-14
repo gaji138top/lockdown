@@ -4,6 +4,7 @@
 alibaba.com
 aliexpress.com
 amazon.com
+amazonaws.com
 blibli.com
 bukalapak.com
 cdninstagram.com

@@ -72,3 +72,6 @@ surfshark.com
 bittorrent.com
 urban-vpn.com
 tebex.io
+utorrent.com
+yandex.ru
+utorrent.li

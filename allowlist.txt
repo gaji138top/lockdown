@@ -36,6 +36,9 @@ inf88.net
 inf99.net
 indo368cash.net
 helpdex.net
+godaddy.com
+namecheap.com
+ahrefs.com
 # Brand: domain yang mengandung kata ini tidak dilaporkan (subdomain & domain apa pun)
 brand:qqalfa
 brand:alfa138

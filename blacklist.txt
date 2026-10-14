@@ -68,3 +68,6 @@ youtube.com
 ytimg.com
 xbox.com
 gamepass.com
+surfshark.com
+bittorrent.com
+urban-vpn.com

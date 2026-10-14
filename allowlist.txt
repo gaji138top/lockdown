@@ -1,0 +1,46 @@
+# Whitelist: domain yang dibutuhkan untuk bekerja. Satu domain per baris.
+# Tidak memblokir apa pun; hanya agar domain ini TIDAK muncul di laporan.
+# Subdomain otomatis ikut (google.com mencakup mail.google.com).
+# Contoh awal - sesuaikan dengan kebutuhan kantor:
+google.com
+googleapis.com
+gstatic.com
+googleusercontent.com
+gmail.com
+microsoft.com
+microsoftonline.com
+office.com
+office.net
+live.com
+windows.com
+windowsupdate.com
+msftconnecttest.com
+bing.com
+sharepoint.com
+skype.com
+teams.microsoft.com
+zoom.us
+whatsapp.com
+whatsapp.net
+github.com
+githubusercontent.com
+jsdelivr.net
+script.google.com
+cloudflare.com
+digicert.com
+livechatinc.com
+livechat.com
+asia77cash.com
+inf77.net
+inf88.net
+inf99.net
+indo368cash.net
+helpdex.net
+# Brand: domain yang mengandung kata ini tidak dilaporkan (subdomain & domain apa pun)
+brand:qqalfa
+brand:alfa138
+brand:kaisar888
+brand:tambang888
+brand:berlian888
+brand:qqmobil
+brand:motorslot77

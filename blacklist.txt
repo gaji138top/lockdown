@@ -162,3 +162,6 @@ shopeemobile.com
 tokopedia-static.net
 shopdisney.com
 jwpei.com
+video.com
+themoviedb.org
+freeplanetvpn.com

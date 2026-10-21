@@ -189,3 +189,4 @@ wpeproxy.com
 sec-tunnel.com
 openwebtorrent.com
 nephobox.com
+urban-vpn.com

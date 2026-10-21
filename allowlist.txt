@@ -42,6 +42,9 @@ ahrefs.com
 klikbca.com
 cloudflare.net
 asia88cash.com
+static.microsoft
+cloud.microsoft
+office365.com
 # Brand: domain yang mengandung kata ini tidak dilaporkan (subdomain & domain apa pun)
 brand:qqalfa
 brand:alfa138

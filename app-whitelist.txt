@@ -1,1 +1,7 @@
-
+Chrome
+Edge
+Teams
+Telegram
+Vysor
+Scrcpy
+LiveChat
